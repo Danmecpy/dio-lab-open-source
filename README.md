@@ -32,8 +32,8 @@ Tenho interesse especial em:
 ## 📫 Como me encontrar
 📍 **Local:** Macaé - RJ, Brasil  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-mec/)  
-💻 [GitHub](https://github.com/DanielTavares)  
-✉️ **E-mail:** danieltavares@exemplo.com  
+💻 [GitHub]([https://github.com/DanielTavares](https://github.com/Danmecpy))  
+✉️ **E-mail:** danmecpy@gmail.com 
 
 ---
 
